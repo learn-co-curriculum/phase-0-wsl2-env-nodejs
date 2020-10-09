@@ -35,4 +35,4 @@ quickly install Node.js with a couple of commands.
 ### Check Your Work
 
 If you see a message starting with "-> v14.13.0", continue to the next lesson,
-**Installing Databases**.
+**Installing Databases on WSL2**.
