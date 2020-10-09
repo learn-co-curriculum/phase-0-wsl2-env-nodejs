@@ -1,4 +1,4 @@
-# Installing Node.js
+# Installing Node.js on WSL2
 
 ## Install Node Version Manager (NVM) on Ubuntu
 
