@@ -6,15 +6,15 @@ Node Version Manager (NVM) is a tool that will allow you to download and install
 
 ### Action item
 
-1. Open the “Ubuntu” application using the “Start” menu
-2. Type “curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash” and press <Enter>
+1. Open the "Ubuntu" application using the "Start" menu
+2. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash` and press `<Enter>`
 3. Close the "Ubuntu" application
 4. Reopen the "Ubuntu" application
-5. Type “nvm” and press <Enter>
+5. Type `nvm` and press `<Enter>`
 
 ### Check your work
 
-If you see a message ending with “Note: to remove, delete, or uninstall nvm”, continue below.
+If you see a message ending with "Note: to remove, delete, or uninstall nvm", continue below.
 
 ## Install Node.js on Ubuntu
 
@@ -22,10 +22,10 @@ For our JavaScript labs and lessons, we expect that students use Node.js on Ubun
 
 ### Action item
 
-1. Open the “Ubuntu” application using the “Start” menu
-2. Type “nvm install node” and press <Enter>
-3. Type “nvm list” and press <Enter>
+1. Open the "Ubuntu" application using the "Start" menu
+2. Type `nvm install node` and press `<Enter>`
+3. Type `nvm list` and press `<Enter>`
 
 ### Check your work
 
-If you see a message starting with “-> v14.13.0”, continue below.
+If you see a message starting with "-> v14.13.0", continue below.
