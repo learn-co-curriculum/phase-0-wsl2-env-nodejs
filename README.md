@@ -20,6 +20,11 @@ first step in installing Node.js on your Ubuntu operating system.
 If you see a message ending with "Note: to remove, delete, or uninstall nvm",
 continue below.
 
+> **Note:** If `nvm` is not recognized, or you are seeing new errors when
+> restarting the "Ubuntu" application, check out the troubleshooting steps
+> in the **Verify and Troubleshoot your WSL2 Environment
+> Setup** lesson later on in this module.
+
 ## Install Node.js on Ubuntu
 
 For our JavaScript labs and lessons, we expect that students use Node.js on
@@ -38,3 +43,4 @@ quickly install Node.js with a couple of commands.
 
 If you see a message starting with "-> v14.13.0", continue to the next lesson,
 **Installing Databases on WSL2**.
+
