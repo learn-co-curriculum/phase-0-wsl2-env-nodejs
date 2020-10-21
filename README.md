@@ -41,6 +41,6 @@ quickly install Node.js with a couple of commands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOajXY2CMq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you see a message starting with "-> v14.13.0", continue to the next lesson,
+If you see a message starting with "-> v14.13.0" (or any higher number, like "-> v14.13.10" or "-> v15.0.0"), continue to the next lesson,
 **Installing Databases on WSL2**.
 
