@@ -2,21 +2,26 @@
 
 ## Install Node Version Manager (NVM) on Ubuntu
 
-Node Version Manager (NVM) is a tool that will allow you to download and install
+[Node Version Manager (NVM)][nvm] is a tool that will allow you to download and install
 multiple versions of Node.js, one of the environments for the JavaScript
 programming language that we teach at Flatiron School. Installing NVM is the
 first step in installing Node.js on your Ubuntu operating system.
 
+[nvm]: https://github.com/nvm-sh/nvm
+
 ### Action Item
 
 1. Open the "Ubuntu" application using the "Start" menu
-2. Type `curl -o- curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash` and press `<Enter>`
-3. Type `curl -sSL https://raw.githubusercontent.com/flatiron-school/dotfiles/master/nvm-shell-script >> ~/.bashrc` and press `<Enter>`
-4. Close the "Ubuntu" application
-5. Reopen the "Ubuntu" application
-6. Type `nvm` and press `<Enter>`
+2. Type
+   `curl -o- curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`
+   and press `<Enter>`
+3. Close the "Ubuntu" application
+4. Reopen the "Ubuntu" application
+5. Type `nvm` and press `<Enter>`
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4X3ELqRnRd0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message ending with "Note: to remove, delete, or uninstall nvm",
 continue below.
@@ -40,7 +45,7 @@ quickly install Node.js with a couple of commands.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bOajXY2CMq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPi6-Bja9a8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you see a message starting with "-> v14.13.0" (or any higher number, like "-> v14.13.10" or "-> v15.0.0"), continue to the next lesson,
-**Installing Ruby on WSL2**.
+If you see a message starting with "-> v16.0.0" (or any higher number, like "->
+16.11.1"), continue to the next lesson, **Installing Ruby on WSL2**.
