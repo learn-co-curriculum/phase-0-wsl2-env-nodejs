@@ -13,7 +13,7 @@ first step in installing Node.js on your Ubuntu operating system.
 
 1. Open the "Ubuntu" application using the "Start" menu
 2. Type
-   `curl -o- curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`
+   `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`
    and press `<Enter>`
 3. Close the "Ubuntu" application
 4. Reopen the "Ubuntu" application
@@ -33,9 +33,9 @@ continue below.
 
 ## Install Node.js on Ubuntu
 
-For our JavaScript labs and lessons, we expect that students use Node.js on
-Ubuntu. If Node Version Manager (NVM) has been successfully installed, you can
-quickly install Node.js with a couple of commands.
+For our JavaScript labs and lessons, you will need to use Node.js on Ubuntu. If
+Node Version Manager (NVM) has been successfully installed, you can quickly
+install Node.js with a couple of commands.
 
 ### Action Item
 
