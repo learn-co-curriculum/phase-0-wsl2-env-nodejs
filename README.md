@@ -33,19 +33,19 @@ continue below.
 
 ## Install Node.js on Ubuntu
 
-For our JavaScript labs and lessons, you will need to use Node.js on Ubuntu. If
-Node Version Manager (NVM) has been successfully installed, you can quickly
-install Node.js with a couple of commands.
+For our JavaScript labs and lessons, we expect that students use Node.js on
+Ubuntu. If Node Version Manager (NVM) has been successfully installed, you can
+quickly install Node.js with a couple of commands.
 
 ### Action Item
 
 1. Open the "Ubuntu" application using the "Start" menu
-2. Type `nvm install node` and press `<Enter>`
+2. Type `nvm install --lts` and press `<Enter>`
 3. Type `nvm list` and press `<Enter>`
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qPi6-Bja9a8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqSwrdEENfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "-> v16.0.0" (or any higher number, like "->
 16.11.1"), continue to the next lesson, **Installing Ruby on WSL2**.
