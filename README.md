@@ -48,4 +48,4 @@ quickly install Node.js with a couple of commands.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SqSwrdEENfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "-> v16.0.0" (or any higher number, like "->
-16.11.1"), continue to the next lesson, **Windows WSL2 Ruby Installation**.
+16.11.1"), continue to the next lesson, **Windows WSL2 Python Installation**.
